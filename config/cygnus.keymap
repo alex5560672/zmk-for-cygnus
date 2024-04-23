@@ -24,52 +24,52 @@
         compatible = "zmk,combos";
 
         esc {
-            bindings = <&none>;
+            bindings = <&kp ESC>;
             key-positions = <0 1>;
         };
 
         del {
-            bindings = <&none>;
+            bindings = <&kp DELETE>;
             key-positions = <10 11>;
         };
 
         caps {
-            bindings = <&none>;
+            bindings = <&kp CAPSLOCK>;
             key-positions = <20 21>;
         };
 
         bk {
-            bindings = <&none>;
+            bindings = <&kp BACKSPACE>;
             key-positions = <8 9>;
         };
 
         tab {
-            bindings = <&none>;
+            bindings = <&kp TAB>;
             key-positions = <28 29>;
         };
 
         enter {
-            bindings = <&none>;
+            bindings = <&kp ENTER>;
             key-positions = <18 19>;
         };
 
         home {
-            bindings = <&none>;
+            bindings = <&kp HOME>;
             key-positions = <2 3>;
         };
 
         end {
-            bindings = <&none>;
+            bindings = <&kp END>;
             key-positions = <12 13>;
         };
 
         pu {
-            bindings = <&none>;
+            bindings = <&kp PG_UP>;
             key-positions = <6 7>;
         };
 
         pd {
-            bindings = <&none>;
+            bindings = <&kp PAGE_DOWN>;
             key-positions = <16 17>;
         };
     };
