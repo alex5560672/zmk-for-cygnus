@@ -260,22 +260,22 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
 combos:
 - p: [0, 1]
-  k: {t: '$$mdi:minus-circle-outline$$', type: none}
+  k: $$mdi:keyboard-esc$$
 - p: [10, 11]
-  k: {t: '$$mdi:minus-circle-outline$$', type: none}
+  k: $$mdi:backspace-reverse-outline$$
 - p: [20, 21]
-  k: {t: '$$mdi:minus-circle-outline$$', type: none}
+  k: $$mdi:apple-keyboard-caps$$
 - p: [8, 9]
-  k: {t: '$$mdi:minus-circle-outline$$', type: none}
+  k: {t: '$$mdi:backspace$$', type: backspace}
 - p: [28, 29]
-  k: {t: '$$mdi:minus-circle-outline$$', type: none}
+  k: $$mdi:keyboard-tab$$
 - p: [18, 19]
-  k: {t: '$$mdi:minus-circle-outline$$', type: none}
+  k: {t: '$$mdi:keyboard-return$$', type: enter}
 - p: [2, 3]
-  k: {t: '$$mdi:minus-circle-outline$$', type: none}
+  k: HOME
 - p: [12, 13]
-  k: {t: '$$mdi:minus-circle-outline$$', type: none}
+  k: END
 - p: [6, 7]
-  k: {t: '$$mdi:minus-circle-outline$$', type: none}
+  k: PG UP
 - p: [16, 17]
-  k: {t: '$$mdi:minus-circle-outline$$', type: none}
+  k: PgDn
