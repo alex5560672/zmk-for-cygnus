@@ -88,17 +88,14 @@
             global-quick-tap;
         };
 
-        ltq: ltq {
+     ltq: ltq {
             compatible = "zmk,behavior-hold-tap";
             label = "LTQ";
-            #binding-cells = <2>;
-            tapping-term-ms = <200>;
-            quick_tap_ms = <0>;
-            flavor = "hold-preferred";
             bindings = <&mo>, <&kp>;
 
+            #binding-cells = <2>;
+            tapping-term-ms = <200>;
             quick-tap-ms = <180>;
-            global-quick-tap;
         };
 
         as: as {
