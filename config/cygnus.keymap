@@ -159,7 +159,7 @@ label = "Icon";
 &trans            &kp ENTER                 &kp N1           &kp N2  &kp N3     &trans                     &trans      &trans      &kp LALT  &kp TAB
           &kp N0                   &kp DOT          &kp TAB          &kp SPACE  &kp BSPC       &kp DELETE
             >;
-label = "Leftpad";
+label = "L pad";
         };
 
         BLUETOOTH {
@@ -179,7 +179,7 @@ label = "Ble";
 &trans          &trans                  &trans                        &trans           &trans     &trans                &trans          &trans          &trans           &trans
         &trans                  &trans                  &kp LEFT_ALT                   &kp SPACE  &kp BSPC  &kp DELETE
             >;
-label = "Arrows";
+label = "Arrow";
         };
 
         CONTROLS {
