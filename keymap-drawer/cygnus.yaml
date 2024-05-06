@@ -20,7 +20,7 @@ layers:
   - K
   - L
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - {t: Z, h: LEFT-PAD}
+  - {t: Z, h: LEFTPAD}
   - X
   - C
   - V
@@ -110,7 +110,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
-  LEFT-PAD:
+  LEFTPAD:
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-right-bold$$
   - {t: '7', s: '&'}
